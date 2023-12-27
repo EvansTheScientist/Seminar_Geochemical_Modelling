@@ -1,0 +1,19 @@
+DATABASE C:\phreeqc\database\LLNL.DAT
+SOLUTION 2 Southern zone all groundwater samples form the southern zone
+    temp      25
+    pH        6.087 
+    pe        4
+    redox     pe
+    units     mol/kgw
+    density   1
+#	Al                4.819e-07
+	C(4)              5.605e-04
+	Ca                3.401e-04
+	Cl                7.673e-04
+	Fe                2.686e-07
+	K                 6.445e-05
+	Mg                1.440e-04
+	Na                8.831e-04
+	S(6)              5.518e-05
+	Si                2.916e-04
+END
